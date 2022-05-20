@@ -1,0 +1,65 @@
+body {
+  margin: 30px 30px;
+  padding: 30px 30px;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: DejaVu Sans Mono, monospace;
+  color: #000000;
+  background: #ffffff url("img/bg-page.png") no-repeat top center;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 0px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 25px;
+  line-height: normal;
+  text-align: center;
+  font-weight: bold;
+}
+
+a[href] {
+  color: #000000;
+  text-decoration: none;
+}
+.myframe {display: block;
+        text-align: center;}
+
+#leftbar {
+ float: left;
+ width: 35% ;
+ background: #6ba2e0;}
+#rightbar {
+  float: right;
+  width: 65% ;}  
+                                                
+#innerleft {padding: 30px ;}
+#innerrigth {padding: 30px ;}
+
+.icon {vertical-align: middle;}
+.avatar {border-radius: 50%;}
+.avatar-container {text-align: center;}
+.sp1 {font-size: 25px;
+      font-weight: bold;}
+.sp2 {font-size: 18px;
+      font-weight: bold;}  
+.blog {margin: 20px;
+      padding: 20px;}
+
+.skills dd {
+  margin: 0;
+  margin-bottom: 10px;
+  background-color: #e8e8e8;
+}
+
+.skills-level {
+  font-weight: bold;
+  font-size: 14px;
+  text-align: center;
+  color: #bb3cb5;
+  background-color: #44c4a4;
+  }
